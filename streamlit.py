@@ -497,10 +497,8 @@ if (st.session_state.submit_button == True):
             value_x = x2 - 10
             # Espaciado vertical entre las líneas
             line_spacing = 20
-            if tasas_a_STR == "8,260000000000002":
-                    tasas_a_STR = "8,26"  
-            if tasas_a_STR == "15,440000000000001":
-                tasas_a_STR = "15,44"      
+            if tasas_a_STR == "11,450000000000001":
+                    tasas_a_STR = "11,45"    
             c.setFont("Helvetica-Bold", 14)
             c.drawString(90, 480, "Liquidación de pago")   
             # Agrega las categorías y valores
@@ -688,10 +686,8 @@ if (st.session_state.submit_button == True):
             if aux == True : 
                 st.write("---")
                 st.write("**Detalle de descuentos:**")
-                if tasas_a_STR == "8,260000000000002":
-                    tasas_a_STR = "8,26"  
-                if tasas_a_STR == "15,440000000000001":
-                    tasas_a_STR = "15,44"  
+                if tasas_a_STR == "11,450000000000001":
+                    tasas_a_STR = "11,45" 
                     
                 st.write(f"+ Tasa del programa {programa_seleccionado} ({tasas_a_STR}%): **${lista_variables[3]}**")
                 st.write(f"+ Arancel T.Cred (1,8%): **${lista_variables[2]}**")
