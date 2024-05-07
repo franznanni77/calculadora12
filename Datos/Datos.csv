@@ -1,49 +1,49 @@
 Provincia,Tasa IIBB,Cuota Simple,"IVA Resp, Insc.",Monotributo *
-Buenos Aires,0.05,3 Cuotas,1.10421,1.09223
-Buenos Aires,0.05,6 Cuotas,1.21605,1.18422
-CABA,0.03,3 Cuotas,1.10177,1.09223
-CABA,0.03,6 Cuotas,1.21048,1.18422
-Catamarca,0.03,3 Cuotas,1.10177,1.09223
-Catamarca,0.03,6 Cuotas,1.21048,1.18422
-Chaco,0.035,3 Cuotas,1.10237,1.09223
-Chaco,0.035,6 Cuotas,1.21185,1.18422
-Chubut,0.05,3 Cuotas,1.10421,1.09223
-Chubut,0.05,6 Cuotas,1.21605,1.18422
-Córdoba,0.048,3 Cuotas,1.10396,1.09223
-Córdoba,0.048,6 Cuotas,1.21548,1.18422
-Corrientes,0.029,3 Cuotas,1.10165,1.09223
-Corrientes,0.029,6 Cuotas,1.21021,1.18422
-Entre Ríos,0.035,3 Cuotas,1.10237,1.09223
-Entre Ríos,0.035,6 Cuotas,1.21185,1.18422
-Formosa,0.03,3 Cuotas,1.10177,1.09223
-Formosa,0.03,6 Cuotas,1.21048,1.18422
-Jujuy,0.03,3 Cuotas,1.10177,1.09223
-Jujuy,0.03,6 Cuotas,1.21048,1.18422
-La Pampa,0.028,3 Cuotas,1.10153,1.09223
-La Pampa,0.028,6 Cuotas,1.20994,1.18422
-La Rioja,0.025,3 Cuotas,1.10117,1.09223
-La Rioja,0.025,6 Cuotas,1.20913,1.18422
-Mendoza,0.028,3 Cuotas,1.10153,1.09223
-Mendoza,0.028,6 Cuotas,1.20994,1.18422
-Misiones,0.045,3 Cuotas,1.10359,1.09223
-Misiones,0.045,6 Cuotas,1.21463,1.18422
-Neuquén,0.03,3 Cuotas,1.10177,1.09223
-Neuquén,0.03,6 Cuotas,1.21048,1.18422
-Río Negro,0.033,3 Cuotas,1.10213,1.09223
-Río Negro,0.033,6 Cuotas,1.2113,1.18422
-Salta,0.033,3 Cuotas,1.10213,1.09223
-Salta,0.033,6 Cuotas,1.2113,1.18422
-San Juan,0.03,3 Cuotas,1.10177,1.09223
-San Juan,0.03,6 Cuotas,1.21048,1.18422
-San Luis,0.023,3 Cuotas,1.10094,1.09223
-San Luis,0.023,6 Cuotas,1.2086,1.18422
-Santa Cruz,0.03,3 Cuotas,1.10177,1.09223
-Santa Cruz,0.03,6 Cuotas,1.21048,1.18422
-Santa Fe,0.045,3 Cuotas,1.10359,1.09223
-Santa Fe,0.045,6 Cuotas,1.21463,1.18422
-Santiago del Estero,0.03,3 Cuotas,1.10177,1.09223
-Santiago del Estero,0.03,6 Cuotas,1.21048,1.18422
-Tierra del Fuego,0.03,3 Cuotas,1.10177,1.09223
-Tierra del Fuego,0.03,6 Cuotas,1.21048,1.18422
-Tucumán,0.029,3 Cuotas,1.10165,1.09223
-Tucumán,0.029,6 Cuotas,1.21021,1.18422
+Buenos Aires,0.05,3 Cuotas,1.08639,1.0773
+Buenos Aires,0.05,6 Cuotas,1.1777,1.15299
+CABA,0.03,3 Cuotas,1.0844,1.0773
+CABA,0.03,6 Cuotas,1.17325,1.15299
+Catamarca,0.03,3 Cuotas,1.0844,1.0773
+Catamarca,0.03,6 Cuotas,1.17325,1.15299
+Chaco,0.035,3 Cuotas,1.08489,1.0773
+Chaco,0.035,6 Cuotas,1.17434,1.15299
+Chubut,0.05,3 Cuotas,1.08639,1.0773
+Chubut,0.05,6 Cuotas,1.1777,1.15299
+Córdoba,0.048,3 Cuotas,1.08619,1.0773
+Córdoba,0.048,6 Cuotas,1.17724,1.15299
+Corrientes,0.029,3 Cuotas,1.0843,1.0773
+Corrientes,0.029,6 Cuotas,1.17304,1.15299
+Entre Ríos,0.035,3 Cuotas,1.08489,1.0773
+Entre Ríos,0.035,6 Cuotas,1.17434,1.15299
+Formosa,0.03,3 Cuotas,1.0844,1.0773
+Formosa,0.03,6 Cuotas,1.17325,1.15299
+Jujuy,0.03,3 Cuotas,1.0844,1.0773
+Jujuy,0.03,6 Cuotas,1.17325,1.15299
+La Pampa,0.028,3 Cuotas,1.0842,1.0773
+La Pampa,0.028,6 Cuotas,1.17282,1.15299
+La Rioja,0.025,3 Cuotas,1.08391,1.0773
+La Rioja,0.025,6 Cuotas,1.17218,1.15299
+Mendoza,0.028,3 Cuotas,1.0842,1.0773
+Mendoza,0.028,6 Cuotas,1.17282,1.15299
+Misiones,0.025,3 Cuotas,1.08391,1.0773
+Misiones,0.025,6 Cuotas,1.17218,1.15299
+Neuquén,0.03,3 Cuotas,1.0844,1.0773
+Neuquén,0.03,6 Cuotas,1.17325,1.15299
+Río Negro,0.033,3 Cuotas,1.08469,1.0773
+Río Negro,0.033,6 Cuotas,1.17391,1.15299
+Salta,0.033,3 Cuotas,1.08469,1.0773
+Salta,0.033,6 Cuotas,1.17391,1.15299
+San Juan,0.03,3 Cuotas,1.0844,1.0773
+San Juan,0.03,6 Cuotas,1.17325,1.15299
+San Luis,0.023,3 Cuotas,1.08372,1.0773
+San Luis,0.023,6 Cuotas,1.17175,1.15299
+Santa Cruz,0.03,3 Cuotas,1.0844,1.0773
+Santa Cruz,0.03,6 Cuotas,1.17325,1.15299
+Santa Fe,0.045,3 Cuotas,1.08589,1.0773
+Santa Fe,0.045,6 Cuotas,1.17657,1.15299
+Santiago del Estero,0.03,3 Cuotas,1.0844,1.0773
+Santiago del Estero,0.03,6 Cuotas,1.17325,1.15299
+Tierra del Fuego,0.03,3 Cuotas,1.0844,1.0773
+Tierra del Fuego,0.03,6 Cuotas,1.17325,1.15299
+Tucumán,0.029,3 Cuotas,1.0843,1.0773
+Tucumán,0.029,6 Cuotas,1.17304,1.15299
