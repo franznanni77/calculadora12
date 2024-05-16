@@ -21,7 +21,7 @@ st.set_page_config(
 st.image("imgs/cartel calcu.png")
 dar_de_baja_calcu = True
 
-if dar_de_baja_calcu == True:
+if dar_de_baja_calcu != True:
     # Configura el repositorio de GitHub y el archivo CSV
     github_token = st.secrets["TOKEN"]
     repo_name = st.secrets["REPO"]
