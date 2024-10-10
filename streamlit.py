@@ -826,6 +826,14 @@ if st.checkbox("Si usted tiene alguna consulta, haga click aquí"):
                         st.success("Consulta enviada exitosamente!") 
                     except github.GithubException:
                         pass
+                        
+# PARA MOSTRAS LAS TASAS DE IIBB  
+if st.checkbox("Tasas de ingresos brutos vigentes"):
+    tasas_por_provincia = pd.read_csv("Datos/Datos.csv")
+    tasas_por_provincia = tasas_por_provincia[["Provincia", "Tasa IIBB"]].drop_duplicates().reset_index(drop=True)
+    tasas_por_provincia["Tasa IIBB"] = (tasas_por_provincia["Tasa IIBB"] * 100 ).round(1).astype(str).str.replace(".",",") + "%"
+    st.dataframe(tasas_por_provincia)
+                        
 st.write("---")
 # Titulo para las redes con estilo personalizado
 st.markdown(
