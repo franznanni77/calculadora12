@@ -695,7 +695,7 @@ if (st.session_state.submit_button == True):
                 if tasas_a_STR == "14,530000000000001%":
                     tasas_a_STR = "14,53"   
                 if tasas_a_STR == "5,319999999999999%":
-                        tasas_a_STR = "5,32"    
+                    tasas_a_STR = "5,32"    
                     
                 st.write(f"+ Tasa del programa {programa_seleccionado} ({tasas_a_STR}%): **${lista_variables[3]}**")
                 st.write(f"+ Arancel T.Cred (1,8%): **${lista_variables[2]}**")
