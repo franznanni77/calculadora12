@@ -286,11 +286,11 @@ if (st.session_state.submit_button == True):
             tasa_iibb_str = str(round(tasa_iibb * 100,1)).replace(".",",") 
             
             tasas_cft = {
-                        "3 Cuotas" : 0.0603,
-                        "6 Cuotas" : 0.1145,
-                        "9 Cuotas" : 0.1645,
-                        "12 Cuotas (10 días hábiles)" : 0.2107 ,
-                        "12 Cuotas (60 días corridos)": 0.163
+                        "3 Cuotas" : 0.0532,
+                        "6 Cuotas" : 0.1014,
+                        "9 Cuotas" : 0.1463,
+                        "12 Cuotas (10 días hábiles)" : 0.1883 ,
+                        "12 Cuotas (60 días corridos)": 0.1453
                         }
             
             # PARA AVANZAR EL CÁLCULO
