@@ -176,7 +176,7 @@ with col1 :
     st.write("")
 
 with col2 : 
-    st.image("imgs/logos_came_con_fondo y recortados.png",use_column_width=True)
+    st.image("imgs/logos_came_con_fondo y recortados.png",use_container_width=True)
     
 with col3 :
     st.write("")
