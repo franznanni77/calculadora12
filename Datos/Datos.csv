@@ -1,121 +1,121 @@
 Provincia,Tasa IIBB,Cuota Simple,"IVA Resp, Insc.",Monotributo *
-Buenos Aires,0.05,3 Cuotas,1.07535,1.06801
-Buenos Aires,0.05,6 Cuotas,1.15422,1.13372
-Buenos Aires,0.05,9 Cuotas,1.23892,1.20268
-Buenos Aires,0.05,12 Cuotas (10 días hábiles),1.32994,1.27501
-Buenos Aires,0.05,12 Cuotas (60 días corridos),1.23681,1.20098
-CABA,0.03,3 Cuotas,1.07363,1.06801
-CABA,0.03,6 Cuotas,1.15044,1.13372
-CABA,0.03,9 Cuotas,1.23264,1.20268
-CABA,0.03,12 Cuotas (10 días hábiles),1.32066,1.27501
-CABA,0.03,12 Cuotas (60 días corridos),1.2306,1.20098
-Catamarca,0.03,3 Cuotas,1.07363,1.06801
-Catamarca,0.03,6 Cuotas,1.15044,1.13372
-Catamarca,0.03,9 Cuotas,1.23264,1.20268
-Catamarca,0.03,12 Cuotas (10 días hábiles),1.32066,1.27501
-Catamarca,0.03,12 Cuotas (60 días corridos),1.2306,1.20098
-Chaco,0.035,3 Cuotas,1.07405,1.06801
-Chaco,0.035,6 Cuotas,1.15137,1.13372
-Chaco,0.035,9 Cuotas,1.23418,1.20268
-Chaco,0.035,12 Cuotas (10 días hábiles),1.32293,1.27501
-Chaco,0.035,12 Cuotas (60 días corridos),1.23212,1.20098
-Chubut,0.05,3 Cuotas,1.07535,1.06801
-Chubut,0.05,6 Cuotas,1.15422,1.13372
-Chubut,0.05,9 Cuotas,1.23892,1.20268
-Chubut,0.05,12 Cuotas (10 días hábiles),1.32994,1.27501
-Chubut,0.05,12 Cuotas (60 días corridos),1.23681,1.20098
-Córdoba,0.048,3 Cuotas,1.07517,1.06801
-Córdoba,0.048,6 Cuotas,1.15383,1.13372
-Córdoba,0.048,9 Cuotas,1.23828,1.20268
-Córdoba,0.048,12 Cuotas (10 días hábiles),1.32899,1.27501
-Córdoba,0.048,12 Cuotas (60 días corridos),1.23618,1.20098
-Corrientes,0.029,3 Cuotas,1.07354,1.06801
-Corrientes,0.029,6 Cuotas,1.15025,1.13372
-Corrientes,0.029,9 Cuotas,1.23234,1.20268
-Corrientes,0.029,12 Cuotas (10 días hábiles),1.3202,1.27501
-Corrientes,0.029,12 Cuotas (60 días corridos),1.2303,1.20098
-Entre Ríos,0.035,3 Cuotas,1.07405,1.06801
-Entre Ríos,0.035,6 Cuotas,1.15137,1.13372
-Entre Ríos,0.035,9 Cuotas,1.23418,1.20268
-Entre Ríos,0.035,12 Cuotas (10 días hábiles),1.32293,1.27501
-Entre Ríos,0.035,12 Cuotas (60 días corridos),1.23212,1.20098
-Formosa,0.03,3 Cuotas,1.07363,1.06801
-Formosa,0.03,6 Cuotas,1.15044,1.13372
-Formosa,0.03,9 Cuotas,1.23264,1.20268
-Formosa,0.03,12 Cuotas (10 días hábiles),1.32066,1.27501
-Formosa,0.03,12 Cuotas (60 días corridos),1.2306,1.20098
-Jujuy,0.03,3 Cuotas,1.07363,1.06801
-Jujuy,0.03,6 Cuotas,1.15044,1.13372
-Jujuy,0.03,9 Cuotas,1.23264,1.20268
-Jujuy,0.03,12 Cuotas (10 días hábiles),1.32066,1.27501
-Jujuy,0.03,12 Cuotas (60 días corridos),1.2306,1.20098
-La Pampa,0.028,3 Cuotas,1.07346,1.06801
-La Pampa,0.028,6 Cuotas,1.15007,1.13372
-La Pampa,0.028,9 Cuotas,1.23203,1.20268
-La Pampa,0.028,12 Cuotas (10 días hábiles),1.31976,1.27501
-La Pampa,0.028,12 Cuotas (60 días corridos),1.23,1.20098
-La Rioja,0.025,3 Cuotas,1.07321,1.06801
-La Rioja,0.025,6 Cuotas,1.14952,1.13372
-La Rioja,0.025,9 Cuotas,1.23112,1.20268
-La Rioja,0.025,12 Cuotas (10 días hábiles),1.31841,1.27501
-La Rioja,0.025,12 Cuotas (60 días corridos),1.2291,1.20098
-Mendoza,0.028,3 Cuotas,1.07346,1.06801
-Mendoza,0.028,6 Cuotas,1.15007,1.13372
-Mendoza,0.028,9 Cuotas,1.23203,1.20268
-Mendoza,0.028,12 Cuotas (10 días hábiles),1.31976,1.27501
-Mendoza,0.028,12 Cuotas (60 días corridos),1.23,1.20098
-Misiones,0.025,3 Cuotas,1.07321,1.06801
-Misiones,0.025,6 Cuotas,1.14952,1.13372
-Misiones,0.025,9 Cuotas,1.23112,1.20268
-Misiones,0.025,12 Cuotas (10 días hábiles),1.31841,1.27501
-Misiones,0.025,12 Cuotas (60 días corridos),1.2291,1.20098
-Neuquén,0.03,3 Cuotas,1.07363,1.06801
-Neuquén,0.03,6 Cuotas,1.15044,1.13372
-Neuquén,0.03,9 Cuotas,1.23264,1.20268
-Neuquén,0.03,12 Cuotas (10 días hábiles),1.32066,1.27501
-Neuquén,0.03,12 Cuotas (60 días corridos),1.2306,1.20098
-Río Negro,0.033,3 Cuotas,1.07388,1.06801
-Río Negro,0.033,6 Cuotas,1.15099,1.13372
-Río Negro,0.033,9 Cuotas,1.23356,1.20268
-Río Negro,0.033,12 Cuotas (10 días hábiles),1.32202,1.27501
-Río Negro,0.033,12 Cuotas (60 días corridos),1.23151,1.20098
-Salta,0.033,3 Cuotas,1.07388,1.06801
-Salta,0.033,6 Cuotas,1.15099,1.13372
-Salta,0.033,9 Cuotas,1.23356,1.20268
-Salta,0.033,12 Cuotas (10 días hábiles),1.32202,1.27501
-Salta,0.033,12 Cuotas (60 días corridos),1.23151,1.20098
-San Juan,0.03,3 Cuotas,1.07363,1.06801
-San Juan,0.03,6 Cuotas,1.15044,1.13372
-San Juan,0.03,9 Cuotas,1.23264,1.20268
-San Juan,0.03,12 Cuotas (10 días hábiles),1.32066,1.27501
-San Juan,0.03,12 Cuotas (60 días corridos),1.2306,1.20098
-San Luis,0.023,3 Cuotas,1.07304,1.06801
-San Luis,0.023,6 Cuotas,1.14916,1.13372
-San Luis,0.023,9 Cuotas,1.23052,1.20268
-San Luis,0.023,12 Cuotas (10 días hábiles),1.31753,1.27501
-San Luis,0.023,12 Cuotas (60 días corridos),1.2285,1.20098
-Santa Cruz,0.03,3 Cuotas,1.07363,1.06801
-Santa Cruz,0.03,6 Cuotas,1.15044,1.13372
-Santa Cruz,0.03,9 Cuotas,1.23264,1.20268
-Santa Cruz,0.03,12 Cuotas (10 días hábiles),1.32066,1.27501
-Santa Cruz,0.03,12 Cuotas (60 días corridos),1.2306,1.20098
-Santa Fe,0.045,3 Cuotas,1.07491,1.06801
-Santa Fe,0.045,6 Cuotas,1.15326,1.13372
-Santa Fe,0.045,9 Cuotas,1.23732,1.20268
-Santa Fe,0.045,12 Cuotas (10 días hábiles),1.32757,1.27501
-Santa Fe,0.045,12 Cuotas (60 días corridos),1.23523,1.20098
-Santiago del Estero,0.03,3 Cuotas,1.07363,1.06801
-Santiago del Estero,0.03,6 Cuotas,1.15044,1.13372
-Santiago del Estero,0.03,9 Cuotas,1.23264,1.20268
-Santiago del Estero,0.03,12 Cuotas (10 días hábiles),1.32066,1.27501
-Santiago del Estero,0.03,12 Cuotas (60 días corridos),1.2306,1.20098
-Tierra del Fuego,0.03,3 Cuotas,1.07363,1.06801
-Tierra del Fuego,0.03,6 Cuotas,1.15044,1.13372
-Tierra del Fuego,0.03,9 Cuotas,1.23264,1.20268
-Tierra del Fuego,0.03,12 Cuotas (10 días hábiles),1.32066,1.27501
-Tierra del Fuego,0.03,12 Cuotas (60 días corridos),1.2306,1.20098
-Tucumán,0.029,3 Cuotas,1.07354,1.06801
-Tucumán,0.029,6 Cuotas,1.15025,1.13372
-Tucumán,0.029,9 Cuotas,1.23234,1.20268
-Tucumán,0.029,12 Cuotas (10 días hábiles),1.3202,1.27501
-Tucumán,0.029,12 Cuotas (60 días corridos),1.2303,1.20098
+Buenos Aires,0.05,3 Cuotas,1.06876,1.06246
+Buenos Aires,0.05,6 Cuotas,1.14032,1.12224
+Buenos Aires,0.05,9 Cuotas,1.21669,1.18473
+Buenos Aires,0.05,12 Cuotas (10 días hábiles),1.29825,1.25003
+Buenos Aires,0.05,12 Cuotas (60 días corridos),1.21523,1.18355
+CABA,0.03,3 Cuotas,1.06719,1.06246
+CABA,0.03,6 Cuotas,1.13691,1.12224
+CABA,0.03,9 Cuotas,1.21109,1.18473
+CABA,0.03,12 Cuotas (10 días hábiles),1.29005,1.25003
+CABA,0.03,12 Cuotas (60 días corridos),1.20968,1.18355
+Catamarca,0.03,3 Cuotas,1.06719,1.06246
+Catamarca,0.03,6 Cuotas,1.13691,1.12224
+Catamarca,0.03,9 Cuotas,1.21109,1.18473
+Catamarca,0.03,12 Cuotas (10 días hábiles),1.29005,1.25003
+Catamarca,0.03,12 Cuotas (60 días corridos),1.20968,1.18355
+Chaco,0.035,3 Cuotas,1.06758,1.06246
+Chaco,0.035,6 Cuotas,1.13775,1.12224
+Chaco,0.035,9 Cuotas,1.21247,1.18473
+Chaco,0.035,12 Cuotas (10 días hábiles),1.29206,1.25003
+Chaco,0.035,12 Cuotas (60 días corridos),1.21104,1.18355
+Chubut,0.05,3 Cuotas,1.06876,1.06246
+Chubut,0.05,6 Cuotas,1.14032,1.12224
+Chubut,0.05,9 Cuotas,1.21669,1.18473
+Chubut,0.05,12 Cuotas (10 días hábiles),1.29825,1.25003
+Chubut,0.05,12 Cuotas (60 días corridos),1.21523,1.18355
+Córdoba,0.048,3 Cuotas,1.0686,1.06246
+Córdoba,0.048,6 Cuotas,1.13997,1.12224
+Córdoba,0.048,9 Cuotas,1.21612,1.18473
+Córdoba,0.048,12 Cuotas (10 días hábiles),1.29741,1.25003
+Córdoba,0.048,12 Cuotas (60 días corridos),1.21466,1.18355
+Corrientes,0.029,3 Cuotas,1.06712,1.06246
+Corrientes,0.029,6 Cuotas,1.13675,1.12224
+Corrientes,0.029,9 Cuotas,1.21082,1.18473
+Corrientes,0.029,12 Cuotas (10 días hábiles),1.28965,1.25003
+Corrientes,0.029,12 Cuotas (60 días corridos),1.20941,1.18355
+Entre Ríos,0.035,3 Cuotas,1.06758,1.06246
+Entre Ríos,0.035,6 Cuotas,1.13775,1.12224
+Entre Ríos,0.035,9 Cuotas,1.21247,1.18473
+Entre Ríos,0.035,12 Cuotas (10 días hábiles),1.29206,1.25003
+Entre Ríos,0.035,12 Cuotas (60 días corridos),1.21104,1.18355
+Formosa,0.03,3 Cuotas,1.06719,1.06246
+Formosa,0.03,6 Cuotas,1.13691,1.12224
+Formosa,0.03,9 Cuotas,1.21109,1.18473
+Formosa,0.03,12 Cuotas (10 días hábiles),1.29005,1.25003
+Formosa,0.03,12 Cuotas (60 días corridos),1.20968,1.18355
+Jujuy,0.03,3 Cuotas,1.06719,1.06246
+Jujuy,0.03,6 Cuotas,1.13691,1.12224
+Jujuy,0.03,9 Cuotas,1.21109,1.18473
+Jujuy,0.03,12 Cuotas (10 días hábiles),1.29005,1.25003
+Jujuy,0.03,12 Cuotas (60 días corridos),1.20968,1.18355
+La Pampa,0.028,3 Cuotas,1.06704,1.06246
+La Pampa,0.028,6 Cuotas,1.13658,1.12224
+La Pampa,0.028,9 Cuotas,1.21055,1.18473
+La Pampa,0.028,12 Cuotas (10 días hábiles),1.28926,1.25003
+La Pampa,0.028,12 Cuotas (60 días corridos),1.20914,1.18355
+La Rioja,0.025,3 Cuotas,1.06681,1.06246
+La Rioja,0.025,6 Cuotas,1.13609,1.12224
+La Rioja,0.025,9 Cuotas,1.20974,1.18473
+La Rioja,0.025,12 Cuotas (10 días hábiles),1.28807,1.25003
+La Rioja,0.025,12 Cuotas (60 días corridos),1.20833,1.18355
+Mendoza,0.028,3 Cuotas,1.06704,1.06246
+Mendoza,0.028,6 Cuotas,1.13658,1.12224
+Mendoza,0.028,9 Cuotas,1.21055,1.18473
+Mendoza,0.028,12 Cuotas (10 días hábiles),1.28926,1.25003
+Mendoza,0.028,12 Cuotas (60 días corridos),1.20914,1.18355
+Misiones,0.025,3 Cuotas,1.06681,1.06246
+Misiones,0.025,6 Cuotas,1.13609,1.12224
+Misiones,0.025,9 Cuotas,1.20974,1.18473
+Misiones,0.025,12 Cuotas (10 días hábiles),1.28807,1.25003
+Misiones,0.025,12 Cuotas (60 días corridos),1.20833,1.18355
+Neuquén,0.03,3 Cuotas,1.06719,1.06246
+Neuquén,0.03,6 Cuotas,1.13691,1.12224
+Neuquén,0.03,9 Cuotas,1.21109,1.18473
+Neuquén,0.03,12 Cuotas (10 días hábiles),1.29005,1.25003
+Neuquén,0.03,12 Cuotas (60 días corridos),1.20968,1.18355
+Río Negro,0.033,3 Cuotas,1.06742,1.06246
+Río Negro,0.033,6 Cuotas,1.13741,1.12224
+Río Negro,0.033,9 Cuotas,1.21191,1.18473
+Río Negro,0.033,12 Cuotas (10 días hábiles),1.29125,1.25003
+Río Negro,0.033,12 Cuotas (60 días corridos),1.21049,1.18355
+Salta,0.033,3 Cuotas,1.06742,1.06246
+Salta,0.033,6 Cuotas,1.13741,1.12224
+Salta,0.033,9 Cuotas,1.21191,1.18473
+Salta,0.033,12 Cuotas (10 días hábiles),1.29125,1.25003
+Salta,0.033,12 Cuotas (60 días corridos),1.21049,1.18355
+San Juan,0.03,3 Cuotas,1.06719,1.06246
+San Juan,0.03,6 Cuotas,1.13691,1.12224
+San Juan,0.03,9 Cuotas,1.21109,1.18473
+San Juan,0.03,12 Cuotas (10 días hábiles),1.29005,1.25003
+San Juan,0.03,12 Cuotas (60 días corridos),1.20968,1.18355
+San Luis,0.023,3 Cuotas,1.06666,1.06246
+San Luis,0.023,6 Cuotas,1.13576,1.12224
+San Luis,0.023,9 Cuotas,1.2092,1.18473
+San Luis,0.023,12 Cuotas (10 días hábiles),1.28729,1.25003
+San Luis,0.023,12 Cuotas (60 días corridos),1.2078,1.18355
+Santa Cruz,0.03,3 Cuotas,1.06719,1.06246
+Santa Cruz,0.03,6 Cuotas,1.13691,1.12224
+Santa Cruz,0.03,9 Cuotas,1.21109,1.18473
+Santa Cruz,0.03,12 Cuotas (10 días hábiles),1.29005,1.25003
+Santa Cruz,0.03,12 Cuotas (60 días corridos),1.20968,1.18355
+Santa Fe,0.045,3 Cuotas,1.06836,1.06246
+Santa Fe,0.045,6 Cuotas,1.13945,1.12224
+Santa Fe,0.045,9 Cuotas,1.21526,1.18473
+Santa Fe,0.045,12 Cuotas (10 días hábiles),1.29616,1.25003
+Santa Fe,0.045,12 Cuotas (60 días corridos),1.21381,1.18355
+Santiago del Estero,0.03,3 Cuotas,1.06719,1.06246
+Santiago del Estero,0.03,6 Cuotas,1.13691,1.12224
+Santiago del Estero,0.03,9 Cuotas,1.21109,1.18473
+Santiago del Estero,0.03,12 Cuotas (10 días hábiles),1.29005,1.25003
+Santiago del Estero,0.03,12 Cuotas (60 días corridos),1.20968,1.18355
+Tierra del Fuego,0.03,3 Cuotas,1.06719,1.06246
+Tierra del Fuego,0.03,6 Cuotas,1.13691,1.12224
+Tierra del Fuego,0.03,9 Cuotas,1.21109,1.18473
+Tierra del Fuego,0.03,12 Cuotas (10 días hábiles),1.29005,1.25003
+Tierra del Fuego,0.03,12 Cuotas (60 días corridos),1.20968,1.18355
+Tucumán,0.029,3 Cuotas,1.06712,1.06246
+Tucumán,0.029,6 Cuotas,1.13675,1.12224
+Tucumán,0.029,9 Cuotas,1.21082,1.18473
+Tucumán,0.029,12 Cuotas (10 días hábiles),1.28965,1.25003
+Tucumán,0.029,12 Cuotas (60 días corridos),1.20941,1.18355
